@@ -18,3 +18,7 @@ A simple Java calculator project used to practice Git branching, merging, and re
 ## How to Run
 - Open the project in VS Code.
 - Run `Calculator.java` using Java extension or terminal.
+
+## Version
+• v1.0: Initial version with the Addition feature.  
+• v1.1: Final version with the Subtraction feature and resolved merge conflicts.
